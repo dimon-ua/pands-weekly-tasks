@@ -1,7 +1,6 @@
 import os.path
 import sys
 
-
 FILENAME = "moby-dick.txt"
 
 # Getting list of command line arguments
@@ -12,7 +11,6 @@ def check_file_name():
     if arguments[1] != "moby-dick.txt":
         print(f"Please write the correct file name with extension {FILENAME}")
 
-check_file_name()
 
 # Checking correct file extension
 def check_file_extension():
@@ -21,7 +19,6 @@ def check_file_extension():
     else:
         print(f"Please type the correct file extension")  
 
-check_file_extension()
 
 # try catch block with checking errors
 try:        
@@ -39,6 +36,8 @@ except Exception as e:
 if len(sys.argv) < 2:
     print(f"1 argument expected, please enter the name of the file: {FILENAME}")           
 else:
+    check_file_name()
+    check_file_extension()
     print(count_e)
     
     
