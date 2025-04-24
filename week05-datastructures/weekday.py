@@ -1,3 +1,4 @@
+# Importing datetime module
 import datetime
 
 weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
