@@ -10,7 +10,7 @@ The repository is designed to:
 
 ## Repository Structure
 - Each week, the repository includes:
-- A specific task or problem to solve.
+- A problem to solve of a specific task
 - Python scripts implementing the solution.
 - Supporting files, if required.
 
@@ -20,10 +20,19 @@ The repository is designed to:
 - Algorithm development.
 
 ## Current Status
-This repository is a work in progress, and new tasks are added weekly. Contributions and feedback are welcome!
+This repository is a work in progress, and new tasks are added weekly
 
 ## Getting Started
 To explore the repository:
 1. Clone the repository:
    ```bash
    git clone https://github.com/dimon-ua/pands-weekly-tasks.git
+
+## Run the Python scripts using:
+```bash
+   python script_name.py
+
+## Prerequisites
+- Python 3.x installed on your system.
+- Basic knowledge of Python programming.
+
