@@ -1,3 +1,6 @@
+# Author Dima
+# Program: asks the user to input two numbers and then prints it in human readable format
+
 amount1 = input("Please enter first amount(in cent) ")
 amount2 = input("Please enter second amount(in cent) ")
 amount1 = int(amount1) / 100
