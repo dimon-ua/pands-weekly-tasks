@@ -30,12 +30,12 @@ To address the problems outlined in this project, extensive research was conduct
 
 ## Articles and Tutorials
 1. **"Newton method at estimating square roots"**
-   - **Source**: [Newton's method in finding square root number](https://www.youtube.com/watch?v=B1Mld-PiG3M))
+   - **Source**: [Newton's method in finding square root number](https://www.youtube.com/watch?v=B1Mld-PiG3M)
    - **Description**: This article provided foundational knowledge about REST API design principles, which formed the basis of the project's backend implementation.
   
 ## Official Documentation
 1. **Real Python Documentation**
-   - **Source**: [Real Python Tutorials]([https://example.com/rest-api-guide](https://realpython.com/))
+   - **Source**: [Real Python Tutorials](https://example.com/rest-api-guide](https://realpython.com/)
    - **Description**: Python resource with examples of code, explanation articles and much more
   
 
