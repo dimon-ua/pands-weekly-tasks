@@ -28,10 +28,15 @@ This repository is a work in progress, and new tasks are added weekly
 
 To address the problems outlined in this project, extensive research was conducted. Below are the key references and resources consulted during the process:
 
-## Problem Identification and Understanding
-- **[Title/Description of Article or Resource]**
-  - Source: [Link to the source]
-  - Key Takeaway: Briefly describe how this helped you understand the problem.
+## Articles and Tutorials
+1. **"Newton method at estimating square roots"**
+   - **Source**: [Newton's method in finding square root number](https://www.youtube.com/watch?v=B1Mld-PiG3M))
+   - **Description**: This article provided foundational knowledge about REST API design principles, which formed the basis of the project's backend implementation.
+  
+## Official Documentation
+1. **Real Python Documentation**
+   - **Source**: [Real Python Tutorials]([https://example.com/rest-api-guide](https://realpython.com/))
+   - **Description**: Python resource with examples of code, explanation articles and much more
   
 
 ## Getting Started
