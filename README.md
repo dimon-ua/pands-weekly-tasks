@@ -24,6 +24,16 @@ The repository is designed to:
 ## Current Status
 This repository is a work in progress, and new tasks are added weekly
 
+## References
+
+To address the problems outlined in this project, extensive research was conducted. Below are the key references and resources consulted during the process:
+
+## Problem Identification and Understanding
+- **[Title/Description of Article or Resource]**
+  - Source: [Link to the source]
+  - Key Takeaway: Briefly describe how this helped you understand the problem.
+  
+
 ## Getting Started
 To explore the repository:
 1. Clone the repository:
