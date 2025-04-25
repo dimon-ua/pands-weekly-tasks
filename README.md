@@ -41,7 +41,10 @@ To address the problems outlined in this project, extensive research was conduct
 2. **datetime — Basic date and time types**
    - **Source**: [Real Python Tutorials](https://docs.python.org/3/library/datetime.html)
    - **Description**: The datetime module supplies classes for manipulating dates and times.
-  
+
+3. **Python Datetime**
+   - **Source**: [Real Python Tutorials](https://www.w3schools.com/python/python_datetime.asp)
+   - **Description**: Import the datetime module and display the current date.
 
 ## Getting Started
 To explore the repository:
