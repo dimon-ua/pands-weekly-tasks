@@ -1,6 +1,6 @@
 # Pands - Weekly - Tasks Repository
 
-Welcome to the **PANDS Weekly Tasks** repository! This rep contains weekly assignments and exercises created as part of the Programming and Scripting module.
+Welcome to the PANDS Weekly Tasks repository! This repository contains weekly assignments and exercises created as part of the Programming and Scripting module.
 
 ## Purpose
 The repository is designed to:
@@ -8,8 +8,8 @@ The repository is designed to:
 - Solve practical problems using Python.
 - Demonstrate understanding of key programming concepts.
 
-## Repository Structure includes
-- Folders with a specific task solves 
+## Repository Structure
+- Folders containing solutions to specific tasks
 - Python scripts implementing the solution.
 - Supporting files, if required.
 
@@ -49,6 +49,32 @@ Weekly Tasks 08
 
 ## Current Status
 This repository is a work in progress, and new tasks are added weekly
+
+## Contributing
+
+We welcome contributions to the **PANDS Weekly Tasks** repository! Whether you want to report a bug, suggest new ideas, or improve the existing code, your feedback and contributions are highly appreciated. Please follow the guidelines below:
+
+### How to Contribute
+1. **Fork the Repository**: Click on the "Fork" button at the top-right corner of this page to create your own copy of this repository.
+2. **Clone Your Fork**: Use the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/<your-username>/pands-weekly-tasks.git
+   ```
+3. **Create a New Branch**: Always create a new branch for your changes to keep your main branch clean:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make Your Changes**: Add your improvements or fixes.
+5. **Test Your Changes**: Ensure your changes work as expected and do not break existing functionality.
+6. **Commit Your Changes**: Write a concise and descriptive commit message:
+   ```bash
+   git commit -m "Brief description of your changes"
+   ```
+7. **Push Your Changes**: Push the changes to your forked repository:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+8. **Submit a Pull Request**: Go to the original repository and click on "New Pull Request". Provide a detailed description of your changes.
 
 ## References
 
