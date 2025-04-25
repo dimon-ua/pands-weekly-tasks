@@ -37,6 +37,10 @@ To address the problems outlined in this project, extensive research was conduct
 1. **Real Python Documentation**
    - **Source**: [Real Python Tutorials](https://realpython.com/)
    - **Description**: Python resource with examples of code, explanation articles and much more
+   - 
+2. **datetime — Basic date and time types**
+   - **Source**: [Real Python Tutorials](https://docs.python.org/3/library/datetime.html)
+   - **Description**: The datetime module supplies classes for manipulating dates and times.
   
 
 ## Getting Started
