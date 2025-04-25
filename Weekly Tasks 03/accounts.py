@@ -1,3 +1,6 @@
+# Author Dima
+# Program: reads in a 10 character account number and outputs the account number with only the last 4 digits showing and the first 6 digits replaced with X
+
 numbers_input = input("Please enter N-number of digits: ")
 # we need a var with lentgh to check 10 digits number or more/less
 numbers_input_len = len(numbers_input)
