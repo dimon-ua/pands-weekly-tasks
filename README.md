@@ -9,7 +9,7 @@ The repository is designed to:
 - Demonstrate understanding of key programming concepts.
 
 ## Repository Structure includes
-- A problem to solve of a specific task
+- Folders with a specific task solves 
 - Python scripts implementing the solution.
 - Supporting files, if required.
 
