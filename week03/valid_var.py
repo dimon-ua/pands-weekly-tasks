@@ -1,1 +1,0 @@
-#  eggs is valid and 100 is not valid because a varible cannot start with the number
