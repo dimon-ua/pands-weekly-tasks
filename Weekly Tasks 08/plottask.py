@@ -11,7 +11,9 @@ def h(x):
 x = np.linspace(0, 10, 400)
 y = h(x)
 
-
+# loc - (Mean) where the peak of the bell exists.
+# scale - (Standard Deviation) how flat the graph distribution should be.
+# size - The shape of the returned array.
 data = np.random.normal(loc=5, scale = 2, size=1000)
 
 plt.hist(data, bins=20, color='C9', edgecolor='k', linewidth=0.5, alpha=0.6, label="Histogram")
