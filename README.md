@@ -35,7 +35,7 @@ To address the problems outlined in this project, extensive research was conduct
   
 ## Official Documentation
 1. **Real Python Documentation**
-   - **Source**: [Real Python Tutorials](https://example.com/rest-api-guide](https://realpython.com/)
+   - **Source**: [Real Python Tutorials](https://realpython.com/)
    - **Description**: Python resource with examples of code, explanation articles and much more
   
 
