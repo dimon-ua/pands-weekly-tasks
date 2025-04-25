@@ -18,6 +18,32 @@ The repository is designed to:
 - File handling.
 - Algorithm development.
 
+## Topics Covered:
+1. File Handling:
+
+Weekly Tasks 07:
+- Example: Weekly Tasks 07/es.py demonstrates reading from a file, checking file existence, and handling exceptions.
+- User Input and Basic Arithmetic:
+
+Weekly Tasks 02
+- Example: Weekly Tasks 02/bank.py involves user input, arithmetic operations, and formatting output with the Euro symbol.
+- Datetime and Weekday Calculations:
+
+Weekly Tasks 05
+- Example: Weekly Tasks 05/weekday.py uses the datetime module to determine if the current day is a weekday or weekend.
+- Plotting and Data Visualization:
+
+Weekly Tasks 08
+- Example: Weekly Tasks 08/plottask.py demonstrates creating histograms and plots using matplotlib and numpy.
+- Algorithm Implementation:
+
+Weekly Tasks 04
+- Example: Weekly Tasks 04/collatz.py implements the Collatz Conjecture algorithm with user input and iterative logic.
+- Statistics and Random Data:
+
+Weekly Tasks 08
+- Example: Weekly Tasks 08/plottask.py includes generating and visualizing normal distributions with random data.
+
 ## Technologies Used
 - **[Python](https://www.python.org/)**: A versatile, high-level programming language used for implementing all the weekly tasks in this project.
 
