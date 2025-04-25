@@ -8,13 +8,12 @@ The repository is designed to:
 - Solve practical problems using Python.
 - Demonstrate understanding of key programming concepts.
 
-## Repository Structure
-- Each week, the repository includes:
+## Repository Structure includes
 - A problem to solve of a specific task
 - Python scripts implementing the solution.
 - Supporting files, if required.
 
-- Example weekly tasks include:
+## Example weekly tasks include:
 - Data analysis.
 - File handling.
 - Algorithm development.
