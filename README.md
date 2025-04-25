@@ -18,7 +18,7 @@ The repository is designed to:
 - File handling.
 - Algorithm development.
 
-  ## Technologies Used
+## Technologies Used
 - **[Python](https://www.python.org/)**: A versatile, high-level programming language used for implementing all the weekly tasks in this project.
 
 ## Current Status
