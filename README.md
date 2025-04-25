@@ -31,6 +31,7 @@ To explore the repository:
 ## Run the Python scripts using:
 ```bash
    python script_name.py
+```
 
 ## Prerequisites
 - Python 3.x installed on your system.
