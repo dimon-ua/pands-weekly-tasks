@@ -32,6 +32,9 @@ To address the problems outlined in this project, extensive research was conduct
 1. **"Newton method at estimating square roots"**
    - **Source**: [Newton's method in finding square root number](https://www.youtube.com/watch?v=B1Mld-PiG3M)
    - **Description**: This article provided foundational knowledge about REST API design principles, which formed the basis of the project's backend implementation.
+2. **"Normal Distribution"**
+   - **Source**: [Normal Distribution](https://www.w3schools.com/python/NumPy/numpy_random_normal.asp#:~:text=loc%20%2D%20(Mean)%20where%20the,shape%20of%20the%20returned%20array.)
+   - **Description**: random.normal() method to get a Normal Data Distribution.
   
 ## Official Documentation
 1. **Real Python Documentation**
