@@ -101,6 +101,14 @@ To address the problems outlined in this project, extensive research was conduct
    - **Source**: [Real Python Tutorials](https://www.w3schools.com/python/python_datetime.asp)
    - **Description**: Import the datetime module and display the current date.
 
+4. **Pyplot tutorial**
+   - **Source**: [Matplotlib Plotting](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+   - **Description**: An introduction to the pyplot interface.
+
+5. **Stackoverflow**
+   - **Source**: [Matplotlib isualisation](https://stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this))
+   - **Description**: Tips on making Matplotlib graphs look attractiveent.
+
 ## Getting Started
 To explore the repository:
 1. Clone the repository:
