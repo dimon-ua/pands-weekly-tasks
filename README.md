@@ -106,7 +106,7 @@ To address the problems outlined in this project, extensive research was conduct
    - **Description**: An introduction to the pyplot interface.
 
 5. **Stackoverflow**
-   - **Source**: [Matplotlib isualisation](https://stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this))
+   - **Source**: [Matplotlib visualisation](https://stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this)
    - **Description**: Tips on making Matplotlib graphs look attractiveent.
 
 ## Getting Started
